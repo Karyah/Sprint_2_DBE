@@ -1,5 +1,6 @@
 ﻿# Soul API
 ## Nossa Proposta 
+Nossa solução que permite a otimização do processo do atendimento ao cliente da empresa Plusoft, fornecendo um atendimento personalizado e eficiente, ajudando a melhorar a experiência e aumentar a satisfação do cliente. A solução será um chatbot personalizado com integração com a API OpenIA. O chatGPT irá gerar sugestões para os clientes baseado no histórico de pedidos e conversas.
 
 
 ## Lista de endpoints iniciais
